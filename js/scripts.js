@@ -25,7 +25,7 @@ console. log(name);
 console. log(welcome);
 
 //Array
-var fruits = ['apples', 'grapes', 'oranges', 'bananas']
+var fruits = ['apples', 'grapes', 'oranges', 'bananas'];
 var rockBand = ['Pantera', 'Tool', 'Metallica', 'Rush'];
 
 
